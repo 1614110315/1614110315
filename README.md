@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu Bhardwaj.
+- 👋 Hi, I’m Himanshu Bhardwaj.
 - 👀 I’m interested in learn programming languages.
 - 🌱 I’m currently learning DSA and JAVA.
 - 💞️ I’m looking to collaborate on new project manual & performance testing.
